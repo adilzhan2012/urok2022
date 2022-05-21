@@ -40,3 +40,15 @@ nav a {
 a {
 	font-size: 20px;
 }
+.red {
+	color: #FF0000;
+}
+.darkblue {
+	color: #000066;
+}
+.lightorange {
+	color: #FF6600;
+}
+.color {
+	color: #66CC00;
+}
